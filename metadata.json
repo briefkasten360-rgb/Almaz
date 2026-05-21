@@ -1,0 +1,6 @@
+{
+  "name": "Almaz Haarstudio",
+  "description": "Premium Haarstudio in elegantem Design mit Conversion-Optimierung für mobile Geräte und lokale Kundengewinnung.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
